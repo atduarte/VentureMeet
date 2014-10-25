@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Sergio Esteves\AndroidStudioProjects\VentureMeet\app\build\intermediates\pre-dexed\debug\classes-42444718507c5d681d0064249fa2495e173159ec.jar"
+        jar="C:\Users\Sergio Esteves\AndroidStudioProjects\VentureMeet\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Sergio Esteves\AndroidStudioProjects\VentureMeet\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-1b70a59eae548c1fad3bd86f2376924e8341a563.jar"
+        jar="C:\Users\Sergio Esteves\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Sergio Esteves\AndroidStudioProjects\VentureMeet\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-2540748f10d8ba688bd183cf909e037e96ba8ad6.jar"
+        jar="C:\Users\Sergio Esteves\AndroidStudioProjects\VentureMeet\app\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="C:\Users\Sergio Esteves\AndroidStudioProjects\VentureMeet\app\build\intermediates\pre-dexed\debug\classes-c4559798b3e2b023459206860cdb0ec295ed7112.jar"
+        jar="C:\Users\Sergio Esteves\AndroidStudioProjects\VentureMeet\app\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+    <item
+        dex="C:\Users\Sergio Esteves\AndroidStudioProjects\VentureMeet\app\build\intermediates\pre-dexed\debug\classes-057115822fbf7d78c9dea7f18c446cfbf3f72a48.jar"
+        jar="C:\Users\Sergio Esteves\AndroidStudioProjects\VentureMeet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\6.1.11\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="711351f12980fffdff7f1b0be9303ac6611affd8"/>
+    <item
+        dex="C:\Users\Sergio Esteves\AndroidStudioProjects\VentureMeet\app\build\intermediates\pre-dexed\debug\classes-c6391e20e1055746526f0876692e8c65738c39ca.jar"
+        jar="C:\Users\Sergio Esteves\AndroidStudioProjects\VentureMeet\app\build\intermediates\exploded-aar\com.google.android.support\wearable\1.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6804efbb78d7facc2e1aa107c7342bee83afae45"/>
+    <item
+        dex="C:\Users\Sergio Esteves\AndroidStudioProjects\VentureMeet\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-db00a59c33f9b5928d4b2efe8fde53292331232e.jar"
+        jar="C:\Users\Sergio Esteves\AndroidStudioProjects\VentureMeet\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>
