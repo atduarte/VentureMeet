@@ -1,0 +1,42 @@
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@android:color/black">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Notification"
+        android:id="@+id/not"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ffffffff"
+        android:textSize="30dp"
+        android:layout_marginBottom="30dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="168dp"
+        android:layout_height="wrap_content"
+        android:text="Lunch Found"
+        android:id="@+id/buttonnotificationyes"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ffffffff" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="168dp"
+        android:layout_height="wrap_content"
+        android:text="Still Not Found"
+        android:id="@+id/buttonnotificationno"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ffffffff" />
+</LinearLayout>

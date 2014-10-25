@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="#ffffffff"
+    android:id="@+id/ll2">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_gravity="left|top"
+        android:background="@drawable/comma"
+        android:adjustViewBounds="true" />
+
+    <TextView
+        android:id="@+id/txt_match"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal|top"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:text="Match Found!" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img3"
+        android:layout_gravity="right|bottom"
+        android:src="@drawable/slider_gray"
+        android:layout_marginRight="50dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img_2"
+        android:layout_gravity="left|bottom"
+        android:src="@drawable/slider_orange"
+        android:layout_marginLeft="50dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img_1"
+        android:layout_gravity="center_horizontal|bottom"
+        android:src="@drawable/slider_gray" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="90dp"
+        android:layout_gravity="center"
+        android:weightSum="1"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:layout_width="174dp"
+            android:layout_height="wrap_content"
+            android:text="You were matched with"
+            android:id="@+id/txt_newmatch"
+            android:layout_gravity="center"
+            android:textColor="#ff000000"
+            android:textAlignment="center"
+            android:gravity="center_horizontal" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="John Smith"
+            android:id="@+id/textView"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.55"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:gravity="center_vertical|center_horizontal" />
+    </LinearLayout>
+
+</FrameLayout>
