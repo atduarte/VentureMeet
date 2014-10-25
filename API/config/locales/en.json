@@ -1,0 +1,19 @@
+{
+	"facebook_authError" 		: "Facebook Login Failed",
+	"facebook_authError_code" 	: 1 ,
+
+	"user_registry_failed"		: "User Registry Failed: >50 Friends or verified both failed",
+	"user_registry_failed_code"	: 2,
+
+	"user_registry_success"		: "User Registed",
+	"user_registry_success_code": 3,
+
+	"user_login_success"		: "User Logged",
+	"user_login_success_code"	: 4,
+
+	"user_invalid"				: "No such user",
+	"user_invalid_code"			: 5,
+
+	"user_info_success"			: "User Info",
+	"user_info_success_code"	: 6
+}
