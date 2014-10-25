@@ -1,0 +1,46 @@
+VentureMeet
+===========
+
+
+We present to you Venture Meet the app that will connect Caixa's clients more than ever.
+
+Firstly let us present some of our findings.
+We've discovered several articles regarding Caixa's particular interest in startups.
+Caixa works with large vendors, including IBM, Accenture and HP, but seeks innovation from small companies with specialized knowledge on technologies.
+Well, one thing is to seek for this small companies other is to actually do something about it.
+We found that in early 2011 Caixa launched Caixa Capital Micro and several startups have proven their success.
+Most of the investments are provided by "la Caixa" Group but there is a significant participation by public and private investors!
+Ok. Enough about Caixa and their investors. 
+
+What do entrepreneurs need most?
+There is no efficient and tech friendly way of connecting entrepreneurs to investors.
+Also, it is well known that lack of funding and financial help is the main reason that most startups fail, even good ones.
+The problems are real, but how are we going to solve this issue?
+First of all we'll promote and create a community of investors and entrepreneurs.
+Secondly, TIME. We want to encourage a fast and immediate connection between these actors. Most investors are busy and they can't afford to schedule meetings in their offices to hear every single startup idea.
+Regarding this guidelines we're ready to implement our solution.
+
+FIRST STEP : GATHER ALL CAIXABANK'S INFORMATION ABOUT THEIR INVESTORS
+SECOND: DEVELOP AN APP THAT, WITH SINGLE CLICK (WEARABLE DEVICES ARE GREAT FOR THOSE), SCHEDULES A LUNCH BETWEEN A CAIXA CLIENT ENTREPRENEUR AND AN ASSOCIATED INVESTOR.
+THIRD STEP : A CHANCE IS GIVEN TO THE ENTREPRENEUR TO EXPOSE HIS IDEA IN A PRACTICAL WAY. THERE ARE NO OBLIGATIONS, JUST AND INFORMAL LUNCH TALK!
+
+Entrepreneurs win. This app will guarantee a fast access to a wide network of handpicked investors.
+It is given to them the chance to schedule a meet with a real investor, FAST and EASY!
+Also they'll have a whole lunch to expose their idea.
+
+We're all well aware of how busy investors tend to be, but even investors need to lunch! Yes, we did our research.
+Being able to easily and rapidly schedule a lunch with an entrepreneur facilitates the investor’s way of hearing new financially promising ideas. 
+
+Now let’s talk about what's really important.
+How will Caixa profit from all this?
+The key to succeed in any business is having satisfied clients. By responding to their needs we can surely achieve that. 
+More customers will join Caixa giving it's a vehicle to reach investors in an easy and fast way.
+More connections, more discussion, better investments. Caixa will be responsible for the rise of future role-model companies.
+Win. Win. Win.
+
+The prototype.
+You're a Caixa's client and you're at work.
+You look at your watch. Lunch time is soon.
+While still counting the minutes left to have your break, a notification pops up asking if you'd like to schedule a venture meet.
+You have no plans for your lunch break and there's an idea you'd like to be heard by a possible investor.
+With a single click an automated match between you and a possible investor that is also available to lunch is created. Next panel shows the option to contact that investor. Now it's up to you, hope you have a good pitch ;)
